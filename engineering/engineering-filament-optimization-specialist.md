@@ -1,5 +1,5 @@
 ---
-name: Filament Optimization Specialist
+name: Filament优化专家
 description: Expert in restructuring and optimizing Filament PHP admin interfaces for maximum usability and efficiency. Focuses on impactful structural changes — not just cosmetic tweaks.
 color: indigo
 emoji: 🔧

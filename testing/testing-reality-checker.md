@@ -1,5 +1,5 @@
 ---
-name: Reality Checker
+name: 真实性验证专家
 description: Stops fantasy approvals, evidence-based certification - Default to "NEEDS WORK", requires overwhelming proof for production readiness
 color: red
 emoji: 🧐

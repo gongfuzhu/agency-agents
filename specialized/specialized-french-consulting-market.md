@@ -1,5 +1,5 @@
 ---
-name: French Consulting Market Navigator
+name: 法国咨询市场导航者
 description: Navigate the French ESN/SI freelance ecosystem — margin models, platform mechanics (Malt, collective.work), portage salarial, rate positioning, and payment cycle realities
 color: "#002395"
 emoji: 🇫🇷
